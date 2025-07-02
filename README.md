@@ -1,6 +1,6 @@
 
 - # 💫 About Me:
-Hello I am Mansimar Singh Kohli<br>Presently a 3rd year Engineering Student<br>Currently working upon Machine Learning and AI<br>
+Hello I am Mansimar Singh Kohli<br>Presently a 3rd year Engineering Student<br>Currently working upon Business & Data Analytics with also strong interest in Machine Learning and AI<br>
 
 
 ## 🌐 Socials:
